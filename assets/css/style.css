@@ -48,14 +48,14 @@ PARALLAX EFFECTS...........................1474
 	
 	/**********************  THEME COLORS ***********************/
 		.main-color{
-			color:#f89406;
+			color:#993cf3;
 		}
 		.main-br-color{
-			background-color:#f89406;
+			background-color:#993cf3;
 		}
 		
 		.main-color-line{
-			border-bottom:2px solid #f89406;
+			border-bottom:2px solid #993cf3;
 			display:inline-block;
 			padding-bottom:1px;
 		}
@@ -71,7 +71,7 @@ PARALLAX EFFECTS...........................1474
 	/********************** CUSTOM BACKGROUND STYLES *************************/
 	
 	.lines-bg-color {
-		background: #f89406 url(../img/line_bg.png) top left repeat;
+		background: #993cf3 url(../img/line_bg.png) top left repeat;
 	}
 	.dott-bg{
 		background-image:url(../img/section-top-bg.png)repeat;
@@ -256,13 +256,13 @@ PARALLAX EFFECTS...........................1474
 		}
 			
 			#slogan-section-3 .goprice a{
-				color:#f89406;
+				color:#993cf3;
 				font-size:140%;
 			
 			}
 			
 			#slogan-section-1 .goprice a{
-				color:#f89406;
+				color:#993cf3;
 				font-size:140%;
 			
 			}
@@ -321,7 +321,7 @@ PARALLAX EFFECTS...........................1474
 				.navbar .nav > .active > a  {
 					color: #fff;
 					text-decoration: none;
-					background-color: #f89406;
+					background-color: #993cf3;
 					-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
 					-moz-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
 					box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
@@ -332,7 +332,7 @@ PARALLAX EFFECTS...........................1474
 				 .navbar .nav > li > a:hover,  .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
 					color: #fff;
 					text-decoration: none;
-					background-color: #f89406;
+					background-color: #993cf3;
 					-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
 					-moz-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
 					box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
@@ -343,7 +343,6 @@ PARALLAX EFFECTS...........................1474
 					.navbar .brand {
 						
 						font-weight: 400;
-						background: url(../img/logo-bg.png) top left no-repeat;
 						padding:5px 15px 12px 150px;
 						margin-left:-120px;
 						margin-right:30px;
@@ -574,7 +573,7 @@ PARALLAX EFFECTS...........................1474
 	
 		
 		 #slogan-section-1 .well{
-			background: #f89406  url(../img/png.png) top left repeat;
+			background: #993cf3  url(../img/png.png) top left repeat;
 			border:none;
 			text-transform:uppercase;
 			color:#333;
@@ -619,7 +618,7 @@ PARALLAX EFFECTS...........................1474
 	
 		
 		 #slogan-section-2 .well{
-			background: #f89406  url(../img/png.png) top left repeat;
+			background: #993cf3  url(../img/png.png) top left repeat;
 			border:none;
 			text-transform:uppercase;
 			color:#333;
@@ -916,7 +915,7 @@ PARALLAX EFFECTS...........................1474
 	}
 	.featured-badge.white {
 		background:url(../img/featured-badge-white.png) top center no-repeat;
-		color:#f89406;
+		color:#993cf3;
 		background-size:100% 100%;
 		
 	}
@@ -1082,7 +1081,7 @@ PARALLAX EFFECTS...........................1474
 				font-size: 140%;
 			}
 			blockquote p:before{
-				color: #f89406;
+				color: #993cf3;
 				content: open-quote;
 				font-size: 3em;
 				line-height: .1em;
@@ -1092,7 +1091,7 @@ PARALLAX EFFECTS...........................1474
 			}
 			
 			blockquote p:after {
-				color: #f89406;
+				color: #993cf3;
 				content: close-quote;
 				font-size: 3em;
 				line-height: .1em;
@@ -1144,11 +1143,11 @@ PARALLAX EFFECTS...........................1474
 			text-align:left;
 		}
 		.tweetList a{
-			color:#f89406;
+			color:#993cf3;
 			font-weight:normal;
 		}
 		.tweetList .timestamp{
-			border-left:2px solid #f89406;
+			border-left:2px solid #993cf3;
 			font-weight:bold;
 			display:block;
 			padding-left:6px;
